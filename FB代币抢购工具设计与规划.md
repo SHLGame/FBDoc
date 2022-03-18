@@ -16,7 +16,7 @@
 
 --- 
 
-<img src="./images/flow02.png" width = "300" height = "500" alt="" align = center />
+<img src="./images/flow02.png" width = "300" height = "600" alt="" align = center />
 
 ### 2. 小狐狸选择FB网络
 
