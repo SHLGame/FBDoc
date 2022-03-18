@@ -12,9 +12,11 @@
 
 流程图如下：
 
-![](./images/flow01.png)
+<img src="./images/flow01.png" width = "300" height = "500" alt="" align = center />
 
-![](./images/flow02.png)
+--- 
+
+<img src="./images/flow02.png" width = "300" height = "500" alt="" align = center />
 
 ### 2. 小狐狸选择FB网络
 
